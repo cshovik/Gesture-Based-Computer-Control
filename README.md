@@ -72,7 +72,7 @@ Install the required  python dependencies for Drag_Click_screenshot_cursor.ipynb
 
 [MIT](https://github.com/cshovik/Gesture-Based-Computer-Control?tab=MIT-1-ov-file#readme)
 
-Screenshot:
+## Screenshot:
 ![screenshot_619](https://github.com/user-attachments/assets/8d0b15f4-3b46-437e-a705-56d1ba11cde9)
 
 
