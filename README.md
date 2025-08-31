@@ -74,6 +74,7 @@ Install the required  python dependencies for Drag_Click_screenshot_cursor.ipynb
 
 ## Screenshot:
 ![screenshot_619](https://github.com/user-attachments/assets/8d0b15f4-3b46-437e-a705-56d1ba11cde9)
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/02e57bf0-f4f4-4c55-974b-a7ae9ac8c8dc" />
 
 
 
